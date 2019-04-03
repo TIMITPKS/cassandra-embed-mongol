@@ -180,11 +180,11 @@ nav ul li {
 /* Background color change on Hover */
 
 nav .menu li a:hover {
-    color:#F44336;
+    color:#ffd315;
 }
 
 .menu li.active a {
-    color: #F44336;
+    color: #ffd315;
 }
 /* Hide Dropdowns by Default
  * and giving it a position of absolute */
@@ -407,12 +407,16 @@ li > a:only-child:after {
     }
 }
 
+h3.cover {
+    background-color: #ffd315;
+
+}
 /* header */
 
 /*--/banner --*/
 
 .main-banner {
-    background: url(../images/banner.jpg)no-repeat center;
+    background: url(https://static.wixstatic.com/media/267bbe_3356ad6d089f4192bd2757f0e27872fb~mv2.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -479,7 +483,7 @@ li > a:only-child:after {
     padding: 11px 31px;
     font-size: 13px;
     letter-spacing: 1px;
-    color: #F44336;
+    color: #ffd315;
     border-radius: 4px;
     display: inline-block;
     box-shadow: 0 12px 60px rgba(0, 0, 0, .2);
@@ -527,7 +531,7 @@ h3.tittle {
 
 .sub-tittle {
     font-size: 0.3em;
-    color: #F44336;
+    color: #ffd315;
     letter-spacing: 2px;
     display: block;
     text-transform: uppercase;
@@ -562,7 +566,7 @@ ul.events-icons.new-inf img {
 .feature-grids span {
     font-size: 2em;
     vertical-align: middle;
-    color: #F44336;
+    color: #ffd315;
 }
 
 .bottom-gd,
@@ -736,7 +740,7 @@ color: #000;
 .blog-txt-info h4 a {
     font-size: 22px;
     font-weight: 700;
-    color: #F44336;
+    color: #ffd315;
 }
 .client-txt-info h6, .blog-txt-info h6 {
     font-size: 15px;
@@ -856,7 +860,7 @@ span.decription {
 }
 
 .address p span {
-    color: #F44336;
+    color: #ffd315;
     width: 30px;
     font-size: 17px;
 }
